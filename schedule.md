@@ -1,4 +1,4 @@
-## CS 465P/565 – Spring 2019 WebDev Class Schedule
+## CS 465P/565 – Spring 2019 - Class Schedule
 
 The schedule is tentative and subject to change.
 
