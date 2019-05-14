@@ -10,7 +10,7 @@ The schedule is tentative and subject to change.
 | Week 4: 4/22 + 4/24 | Node.js, Mustache.js                 | HW #2 due Wednesday (4/24) at 3:30pm        |         
 | Week 5: 4/29 + 5/1  | Express.js, Ajax, Socket.io          | HW #3 due Wednesday (5/1) at 3:30pm         |        
 | Week 6: 5/6 + 5/8   | State of JS + Work Session           | HW #4 due Sunday (5/12) at 11pm             |         
-| Week 7: 5/13 + 5/15 | Deployment, Design,  ES6, React.js   | Portfolio due Sunday (5/19) at 11pm         | 
+| Week 7: 5/13 + 5/15 | GCP, Design, ES6, React.js           | Portfolio due Sunday (5/19) at 11pm         | 
 | Week 8: 5/20 + 5/22 | Gatsby.js, APIs, REST, GraphQL       | Project Proposals due Wednesday (5/22) at 3:30pm   | 
 | Week 9: 5/27 + 5/29 | Memorial Day (No class) + DevOps, Vue.js |                                         | 
 | Week 10: 6/3 + 6/5  | Canvas, Web Audio, Web Speech APIs + Final Presentations |                         |         
